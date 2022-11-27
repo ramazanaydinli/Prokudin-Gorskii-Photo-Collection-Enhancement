@@ -9,6 +9,9 @@ of Congress of U.S.A., and have been recently digitized.
 
 
 Below is an example input photo:
+
+
+
 ![image](https://user-images.githubusercontent.com/80748060/204113755-21b82171-828e-4876-821f-10e6b33c2f68.png)
 
 
