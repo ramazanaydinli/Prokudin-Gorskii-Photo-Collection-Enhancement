@@ -12,7 +12,13 @@ Below is an example input photo:
 
 
 
-![image](https://user-images.githubusercontent.com/80748060/204113755-21b82171-828e-4876-821f-10e6b33c2f68.png)
+![image](https://user-images.githubusercontent.com/80748060/204113907-24b495a0-13e2-4309-90be-9eea8d0ddb52.png)
+
+
+Below is an example output of the code:
+
+
+![image](https://user-images.githubusercontent.com/80748060/204113905-90b4b3b6-97a6-452e-9457-04b4f61661dc.png)
 
 
 There are 29 similar photos exist on a glass plates. They are queued as blue,green and red from top to bottom.
